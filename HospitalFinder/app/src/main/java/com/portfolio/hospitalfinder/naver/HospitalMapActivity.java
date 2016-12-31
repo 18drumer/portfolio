@@ -12,7 +12,7 @@ public class HospitalMapActivity extends NMapActivity  {
 //        super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_hospital_map);
 //    }
-
+//
     private NMapView mMapView;// 지도 화면 View
     private final String CLIENT_ID = "GAbanOHF8FGXvDJN1v6s";// 애플리케이션 클라이언트 아이디 값
 
